@@ -37,6 +37,8 @@ npx @deepseek-ai/dsh web
 - [Discord 社区](https://discord.gg/Ycq5dCaS4) - 官方 Discord。
 
 ## 插件市场与插件发现
+- [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) — 完整 reverse-skill（85 个 SKILL.md）的 DeepSeek Harness 插件：逆向工程、授权渗透测试与安全研究的技能路由包。
+- [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - Complete reverse-skill pack (85 SKILL.md) as a DeepSeek Harness Cordis plugin: reverse engineering, authorized pentesting and security-research skill router.
 
 - [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins) ⭐ 625 - 插件雷达：自动扫描发现全网 dsh 插件候选，测试合格后移入精选目录。
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐ 487 - DSH 插件精选列表（中英双语）。
