@@ -85,6 +85,7 @@ npx @deepseek-ai/dsh web
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 32 - 对话与代码状态回退，基于持久化 Change Ledger。
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 30 - 纯插件实现跨会话长期记忆 + 后台自我进化：五轨记忆、技能自我进化、待办与调度，零核心修改。
 - [titanwings/dsh-automation](https://github.com/titanwings/dsh-automation) ⭐ 23 - 自动化插件：让任务按计划在全新 Agent Session 中运行，支持定时任务管理。
+- [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) ⭐ 21 - 13 源全保真导入（Claude Code/Codex/ChatGPT/Cursor/Gemini/Reasonix/opencode/ZCode/Grok Build/OpenClaw/Pi/Hermes/Kimi）历史会话为可续聊 DSH 会话，支持反向导出/同步回 Claude Code。
 
 ## 集成与周边工具
 
