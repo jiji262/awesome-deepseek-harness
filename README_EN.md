@@ -36,7 +36,7 @@ npx @deepseek-ai/dsh web
 - [Discord community](https://discord.gg/Ycq5dCaS4) - Official Discord.
 
 ## Plugin Marketplaces & Discovery
-
+- [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - Complete reverse-skill pack (85 SKILL.md) as a DeepSeek Harness Cordis plugin: reverse engineering, authorized pentesting and security-research skill router.
 - [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins) ⭐ 625 - Plugin radar: automatically scans and discovers dsh plugin candidates; tested ones graduate into a curated directory.
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐ 487 - A curated list of DSH plugins (English & Chinese).
 - [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) ⭐ 54 - "Find the right plugin in 30 seconds": navigates by what problem a plugin solves and who it's for, not just a repo dump.
