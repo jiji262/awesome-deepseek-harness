@@ -91,6 +91,7 @@ npx @deepseek-ai/dsh web
 - [icetomoyo/dsh_workflow](https://github.com/icetomoyo/dsh_workflow) ⭐ 55 - 把 UltraCode 式多 Agent 调度升级为可生成、可保存、可治理、可恢复的 Workflow 层。
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 47 - 对话与代码状态回退，基于持久化 Change Ledger。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 4 - dsh 登录网关（密码门）：首次配置 + 多用户账号，bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS，远程访问 dsh 不再裸奔。
+- [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - 一键备份与恢复 DSH 用户数据（~/.dsh）：定时自动备份（重启不重置节奏）、sha256 完整性校验、加固的恢复路径审查、GitHub 私库同步与 Settings 可视面板，跨平台。
 
 ## Agent Skills
 
