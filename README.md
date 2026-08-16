@@ -99,6 +99,7 @@ npx @deepseek-ai/dsh web
 - [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) ⭐ 1.3k - 基于 12 本经典软件工程书籍的 AI 代码审查：衰减风险诊断、书目引用、严重度标注。
 - [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1k - 让编码 Agent 具备架构感知：基线优先、证据校验、漂移检查。
 - [Jayden-X-L/forkprobe](https://github.com/Jayden-X-L/forkprobe) ⭐ 65 - 同一任务上对比多个 Skill 并选出最优。
+- [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) ⭐ 16 - 把上游 [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)（25.5k⭐）的 85 个 SKILL.md 完整封装成 Cordis 插件：逆向工程、授权渗透测试、CTF 与安全研究技能路由。仅限授权场景使用。
 
 ## 集成与周边工具
 

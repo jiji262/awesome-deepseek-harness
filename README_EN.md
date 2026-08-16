@@ -98,6 +98,7 @@ npx @deepseek-ai/dsh web
 - [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) ⭐ 1.3k - AI code reviews grounded in 12 classic engineering books: decay-risk diagnostics with book citations and severity labels.
 - [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1k - Makes AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked.
 - [Jayden-X-L/forkprobe](https://github.com/Jayden-X-L/forkprobe) ⭐ 65 - Compare multiple skills on the same task and pick the winner.
+- [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) ⭐ 16 - Packages all 85 SKILL.md files from upstream [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) (25.5k⭐) into a Cordis plugin: reverse engineering, authorized pentesting, CTF, and security-research skill routing. Authorized use only.
 
 ## Integrations & Companion Tools
 
