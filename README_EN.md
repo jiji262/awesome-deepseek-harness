@@ -74,6 +74,7 @@ npx @deepseek-ai/dsh web
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) ⭐ 145 - QQ-pet-style desktop pet plugin: floats in the corner, draggable, feedable, playable.
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) ⭐ 86 - Generative visualization in conversation: the model renders interactive HTML cards directly into the chat stream.
 - [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) ⭐ 82 - GenUI: interactive components — layouts, charts, forms, quizzes — rendered inline in assistant replies.
+- [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) - Visual MCP manager: inspect, add, remove, enable/disable MCP servers from Settings → MCP, with live connection status and tool counts.
 
 ## Capability Plugins
 
@@ -87,6 +88,7 @@ npx @deepseek-ai/dsh web
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 64 - Plugin-only cross-session long-term memory and background self-evolution: five-track memory, skill self-evolution, todos, and scheduling — zero core modifications.
 - [icetomoyo/dsh_workflow](https://github.com/icetomoyo/dsh_workflow) ⭐ 55 - Upgrades one-shot multi-agent dispatch into a workflow layer that is generatable, savable, governable, and resumable.
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 47 - Rewind conversation and workspace state, powered by a persistent Change Ledger.
+- [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 3 - Login gateway (password door) for the DSH web UI: first-run setup, multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 
 ## Agent Skills
 

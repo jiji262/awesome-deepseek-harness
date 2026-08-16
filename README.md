@@ -75,6 +75,7 @@ npx @deepseek-ai/dsh web
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) ⭐ 145 - QQ 宠物形态的桌面宠物插件：右下角悬浮，可拖拽、投喂、玩耍。
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) ⭐ 86 - 在 DSH 对话中生成交互式可视化：模型把交互式 HTML 卡片直接画进会话流。
 - [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) ⭐ 82 - GenUI：回复内直接渲染布局、图表、表单、测验等交互组件。
+- [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) - MCP 可视化管理插件：设置 → MCP 页查看/新增/删除/启停 MCP 服务器，实时显示连接状态与工具数。
 
 ## 功能扩展插件
 
@@ -88,6 +89,7 @@ npx @deepseek-ai/dsh web
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 64 - 纯插件实现跨会话长期记忆 + 后台自我进化：五轨记忆、技能自我进化、待办与调度，零核心修改。
 - [icetomoyo/dsh_workflow](https://github.com/icetomoyo/dsh_workflow) ⭐ 55 - 把 UltraCode 式多 Agent 调度升级为可生成、可保存、可治理、可恢复的 Workflow 层。
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 47 - 对话与代码状态回退，基于持久化 Change Ledger。
+- [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 3 - dsh 登录网关（密码门）：首次配置 + 多用户账号，bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS，远程访问 dsh 不再裸奔。
 
 ## Agent Skills
 
