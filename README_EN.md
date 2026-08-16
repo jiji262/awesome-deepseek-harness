@@ -88,6 +88,7 @@ npx @deepseek-ai/dsh web
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 64 - Plugin-only cross-session long-term memory and background self-evolution: five-track memory, skill self-evolution, todos, and scheduling — zero core modifications.
 - [icetomoyo/dsh_workflow](https://github.com/icetomoyo/dsh_workflow) ⭐ 55 - Upgrades one-shot multi-agent dispatch into a workflow layer that is generatable, savable, governable, and resumable.
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 47 - Rewind conversation and workspace state, powered by a persistent Change Ledger.
+- [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 3 - Login gateway (password door) for the DSH web UI: first-run setup, multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 
 ## Agent Skills
 

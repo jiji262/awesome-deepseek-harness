@@ -89,6 +89,7 @@ npx @deepseek-ai/dsh web
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 64 - 纯插件实现跨会话长期记忆 + 后台自我进化：五轨记忆、技能自我进化、待办与调度，零核心修改。
 - [icetomoyo/dsh_workflow](https://github.com/icetomoyo/dsh_workflow) ⭐ 55 - 把 UltraCode 式多 Agent 调度升级为可生成、可保存、可治理、可恢复的 Workflow 层。
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 47 - 对话与代码状态回退，基于持久化 Change Ledger。
+- [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 3 - dsh 登录网关（密码门）：首次配置 + 多用户账号，bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS，远程访问 dsh 不再裸奔。
 
 ## Agent Skills
 
