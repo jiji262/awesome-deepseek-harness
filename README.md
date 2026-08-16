@@ -75,6 +75,7 @@ npx @deepseek-ai/dsh web
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) ⭐ 145 - QQ 宠物形态的桌面宠物插件：右下角悬浮，可拖拽、投喂、玩耍。
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) ⭐ 86 - 在 DSH 对话中生成交互式可视化：模型把交互式 HTML 卡片直接画进会话流。
 - [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) ⭐ 82 - GenUI：回复内直接渲染布局、图表、表单、测验等交互组件。
+- [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) - MCP 可视化管理插件：设置 → MCP 页查看/新增/删除/启停 MCP 服务器，实时显示连接状态与工具数。
 
 ## 功能扩展插件
 
