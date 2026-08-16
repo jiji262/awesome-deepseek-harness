@@ -74,6 +74,7 @@ npx @deepseek-ai/dsh web
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) ⭐ 145 - QQ-pet-style desktop pet plugin: floats in the corner, draggable, feedable, playable.
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) ⭐ 86 - Generative visualization in conversation: the model renders interactive HTML cards directly into the chat stream.
 - [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) ⭐ 82 - GenUI: interactive components — layouts, charts, forms, quizzes — rendered inline in assistant replies.
+- [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) ⭐ 42 - Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats.
 
 ## Capability Plugins
 
