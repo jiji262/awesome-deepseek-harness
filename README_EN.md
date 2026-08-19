@@ -89,6 +89,7 @@ npx @deepseek-ai/dsh web
 - [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) ⭐ 187 - Desktop pet: one-line install for 28 ready-made transparent animations, or build your own from AI video.
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) ⭐ 182 - Render model-generated interactive cards inside DSH conversations.
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐ 179 - WebGPU ocean skin, shipped as a DSH plugin, a browser extension, and a static installer.
+- [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - MCP client console: `/mcp` health diagnostics, server CRUD in Settings (with approval gate and auto-backup), and a tool test bench.
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) ⭐ 8 - Visual MCP manager: inspect, add, remove, enable/disable MCP servers from Settings → MCP, with live connection status and tool counts.
 
 ## Capability Plugins
@@ -104,6 +105,8 @@ npx @deepseek-ai/dsh web
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 86 - Rewind conversation and workspace state, powered by a persistent Change Ledger.
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) ⭐ 85 - Upgrades one-shot multi-agent dispatch into a workflow layer that is generatable, savable, governable, and resumable.
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) ⭐ 71 - Full-fidelity import of chat history from 13 coding agents (Claude Code, Codex, Cursor, Gemini, OpenClaw, and more) into resumable DSH sessions, with export/sync back to Claude Code.
+- [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) ⭐ 42 - A second model reviewing the approval chain: a read-only subagent returns structured allow/deny verdicts with reasoning and risk levels, fail-closed by default.
+- [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) ⭐ 15 - Declarative allow/deny/ask permission rules plus process-level network policy (built-in local HTTP/CONNECT proxy), full session audit logging, and hot rule reload.
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - Login gateway for the DSH web UI: multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - One-click backup and restore for DSH user data (`~/.dsh`): scheduled auto-backup, sha256 integrity checks, hardened restore-path vetting, GitHub private-repo sync, and a Settings panel. Cross-platform.
 
@@ -130,6 +133,7 @@ npx @deepseek-ai/dsh web
 - [adoresever/graph-memory](https://github.com/adoresever/graph-memory) ⭐ 554 - Knowledge graph memory plugin that extracts structured triples from conversations.
 - [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) ⭐ 484 - Graph-based persistent memory for agents in a single binary, works with DSH.
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 188 - Plugin-only cross-session long-term memory and background self-evolution: five-track memory, skill self-evolution, todos, and scheduling.
+- [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐ 58 - Bounded, layered, approval-gated, auditable cross-session memory: a `ctx.memory` service, a zero-dependency SQLite provider, and frozen-snapshot injection.
 
 ## Related Harnesses & Agent Runtimes
 

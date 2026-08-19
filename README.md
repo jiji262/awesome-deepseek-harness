@@ -90,6 +90,7 @@ npx @deepseek-ai/dsh web
 - [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) ⭐ 187 - 桌面宠物：一行命令装 28 个透明动画宠物，或用 AI 视频自造专属宠物。
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) ⭐ 182 - 在 DSH 对话中生成交互式可视化卡片。
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐ 179 - WebGPU 海洋皮肤，提供插件、浏览器扩展与静态安装器多种形态。
+- [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - MCP 客户端管理台：/mcp 健康诊断 + 设置页服务器 CRUD（带审批门与自动备份）+ 工具试调台。
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) ⭐ 8 - MCP 可视化管理插件：设置 → MCP 页查看/新增/删除/启停 MCP 服务器，实时显示连接状态与工具数。
 
 ## 功能扩展插件
@@ -105,6 +106,8 @@ npx @deepseek-ai/dsh web
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 86 - 对话与代码状态回退，基于持久化 Change Ledger。
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) ⭐ 85 - 把一次性多 Agent 调度升级为可生成、可保存、可治理、可恢复的 Workflow 层。
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) ⭐ 71 - 13 种编码 Agent（Claude Code / Codex / Cursor / Gemini / OpenClaw 等）的历史会话全保真导入为可续聊 DSH 会话，并支持反向导出同步回 Claude Code。
+- [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) ⭐ 42 - 审批链上的第二模型自动审查：只读子代理返回带理由与风险等级的 allow/deny 结构化裁决，fail-closed 兜底。
+- [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) ⭐ 15 - 声明式 allow/deny/ask 权限规则 + 进程级网络策略（内置本地 HTTP/CONNECT 代理），全量会话日志审计与规则热重载。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - dsh 登录网关（密码门）：多用户账号、bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS。
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - 一键备份与恢复 DSH 用户数据（`~/.dsh`）：定时自动备份、sha256 完整性校验、加固的恢复路径审查、GitHub 私库同步与 Settings 可视面板，跨平台。
 
@@ -131,6 +134,7 @@ npx @deepseek-ai/dsh web
 - [adoresever/graph-memory](https://github.com/adoresever/graph-memory) ⭐ 554 - 知识图谱记忆插件，从对话中抽取结构化三元组。
 - [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) ⭐ 484 - 图结构的 Agent 持久记忆，单二进制，支持 DSH。
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 188 - 纯插件实现跨会话长期记忆 + 后台自我进化：五轨记忆、技能自我进化、待办与调度。
+- [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐ 58 - 有界、分层、带审批门、可审计的跨会话记忆：ctx.memory 服务 + 零依赖 SQLite provider + 冻结快照注入。
 
 ## 相关 Harness 与 Agent 运行时
 
