@@ -88,9 +88,16 @@ npx @deepseek-ai/dsh web
 - [liustack/modsearch](https://github.com/liustack/modsearch) ⭐ 98 - Web 搜索插件：问 Web 或 X，返回结构化 JSON 证据，为无原生联网能力的模型补上搜索。
 - [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router) ⭐ 81 - 给纯文本 DSH Agent 装上眼睛：内置免 key 视觉链 + 像素级视觉工具（问答、grounding、裁剪、像素 diff）。
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 64 - 纯插件实现跨会话长期记忆 + 后台自我进化：五轨记忆、技能自我进化、待办与调度，零核心修改。
+- [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐ 57 - 有界、分层、带审批门、可审计的跨会话记忆：ctx.memory 服务 + 零依赖 SQLite provider + memory 工具与冻结快照注入。
 - [icetomoyo/dsh_workflow](https://github.com/icetomoyo/dsh_workflow) ⭐ 55 - 把 UltraCode 式多 Agent 调度升级为可生成、可保存、可治理、可恢复的 Workflow 层。
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 47 - 对话与代码状态回退，基于持久化 Change Ledger。
+- [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) ⭐ 36 - 审批链上的第二模型 AI 自动审查：只读审查子代理返回带理由与风险等级的 allow/deny 结构化裁决，fail-closed 兜底。
+- [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) ⭐ 8 - 声明式 allow/deny/ask 权限规则 + 进程级网络策略（内置本地 HTTP/CONNECT 代理），全量会话日志审计与规则热重载。
+- [PerryLink/dsh-checkpoint-rewind](https://github.com/PerryLink/dsh-checkpoint-rewind) ⭐ 8 - DSH 版 /rewind：git 优先工作区快照 + 轮边界会话 fork + /checkpoint、/rewind 一键恢复，设置页时间线带两两 diff。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 4 - dsh 登录网关（密码门）：首次配置 + 多用户账号，bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS，远程访问 dsh 不再裸奔。
+- [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - 官方 MCP 客户端管理台：/mcp 健康诊断 + 设置页服务器 CRUD（审批门 + 自动备份）+ 工具试调台。
+- [PerryLink/dsh-claude-move](https://github.com/PerryLink/dsh-claude-move) ⭐ 6 - 四源迁移向导：把 Claude Code、Codex、OpenCode、Hermes 的会话、记忆、技能、斜杠命令迁入 DSH 并可续跑。
+- [PerryLink/dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) ⭐ 5 - 可续跑后台子代理 + 持久多代理团队房间：消息总线、共享任务板、审批门交接，跨重启存活。
 
 ## Agent Skills
 
@@ -103,6 +110,8 @@ npx @deepseek-ai/dsh web
 - [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1k - 让编码 Agent 具备架构感知：基线优先、证据校验、漂移检查。
 - [Jayden-X-L/forkprobe](https://github.com/Jayden-X-L/forkprobe) ⭐ 65 - 同一任务上对比多个 Skill 并选出最优。
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) ⭐ 16 - 把上游 [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)（25.5k⭐）的 85 个 SKILL.md 完整封装成 Cordis 插件：逆向工程、授权渗透测试、CTF 与安全研究技能路由。仅限授权场景使用。
+- [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) ⭐ 4 - 插件开发知识库打包为按需加载的 agent 技能：官方约束、任务工作流、API 参考与社区踩坑。
+- [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) ⭐ 2 - 安全审计技能包 + plugin_vet 供应链门禁：八个双语技能 + 预安装自动扫描器。
 
 ## 集成与周边工具
 
