@@ -106,6 +106,7 @@ npx @deepseek-ai/dsh web
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) ⭐ 85 - 把一次性多 Agent 调度升级为可生成、可保存、可治理、可恢复的 Workflow 层。
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) ⭐ 71 - 13 种编码 Agent（Claude Code / Codex / Cursor / Gemini / OpenClaw 等）的历史会话全保真导入为可续聊 DSH 会话，并支持反向导出同步回 Claude Code。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - dsh 登录网关（密码门）：多用户账号、bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS。
+- [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - 一键备份与恢复 DSH 用户数据（`~/.dsh`）：定时自动备份、sha256 完整性校验、加固的恢复路径审查、GitHub 私库同步与 Settings 可视面板，跨平台。
 
 ## Agent Skills
 

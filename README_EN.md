@@ -105,6 +105,7 @@ npx @deepseek-ai/dsh web
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) ⭐ 85 - Upgrades one-shot multi-agent dispatch into a workflow layer that is generatable, savable, governable, and resumable.
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) ⭐ 71 - Full-fidelity import of chat history from 13 coding agents (Claude Code, Codex, Cursor, Gemini, OpenClaw, and more) into resumable DSH sessions, with export/sync back to Claude Code.
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - Login gateway for the DSH web UI: multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
+- [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - One-click backup and restore for DSH user data (`~/.dsh`): scheduled auto-backup, sha256 integrity checks, hardened restore-path vetting, GitHub private-repo sync, and a Settings panel. Cross-platform.
 
 ## Agent Skills
 
