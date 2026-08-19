@@ -103,6 +103,7 @@ npx @deepseek-ai/dsh web
 - [liustack/modsearch](https://github.com/liustack/modsearch) ⭐ 164 - The web search plugin for DSH: ask the web or X, get structured JSON evidence back.
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 86 - Rewind conversation and workspace state, powered by a persistent Change Ledger.
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) ⭐ 85 - Upgrades one-shot multi-agent dispatch into a workflow layer that is generatable, savable, governable, and resumable.
+- [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) ⭐ 71 - Full-fidelity import of chat history from 13 coding agents (Claude Code, Codex, Cursor, Gemini, OpenClaw, and more) into resumable DSH sessions, with export/sync back to Claude Code.
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - Login gateway for the DSH web UI: multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 
 ## Agent Skills

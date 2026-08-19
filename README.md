@@ -102,8 +102,9 @@ npx @deepseek-ai/dsh web
 - [yjh051108/dsh-router-standard](https://github.com/yjh051108/dsh-router-standard) ⭐ 345 - 任务感知的推理模式路由：spec / mixed / react 三档实测行为带与阶段转换。
 - [Lum1104/dsh-browser](https://github.com/Lum1104/dsh-browser) ⭐ 311 - Chrome 侧边栏扩展，让 DSH 无需视觉能力直接操作你的浏览器。
 - [liustack/modsearch](https://github.com/liustack/modsearch) ⭐ 164 - Web 搜索插件：问 Web 或 X，返回结构化 JSON 证据。
-- [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) ⭐ 85 - 把一次性多 Agent 调度升级为可生成、可保存、可治理、可恢复的 Workflow 层。
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 86 - 对话与代码状态回退，基于持久化 Change Ledger。
+- [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) ⭐ 85 - 把一次性多 Agent 调度升级为可生成、可保存、可治理、可恢复的 Workflow 层。
+- [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) ⭐ 71 - 13 种编码 Agent（Claude Code / Codex / Cursor / Gemini / OpenClaw 等）的历史会话全保真导入为可续聊 DSH 会话，并支持反向导出同步回 Claude Code。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - dsh 登录网关（密码门）：多用户账号、bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS。
 
 ## Agent Skills
