@@ -49,6 +49,7 @@ npx @deepseek-ai/dsh web
 - [hikariming/dshfind](https://github.com/hikariming/dshfind) ⭐ 176 - DSH 原理学习、插件市场与最佳实践。
 - [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) ⭐ 151 - 帮 DSH 搜索、安装并验证 GitHub 插件的 Skill。
 - [OBdangshang07/DSH_Creative_Workshop](https://github.com/OBdangshang07/DSH_Creative_Workshop) ⭐ 60 - Steam 创意工坊式的插件发现、信任评估、图搜索、合集与事务化安装规划。
+- [sandbaseai/dsh-plugin-store](https://github.com/sandbaseai/dsh-plugin-store) ⭐ 1 - 原生集成到 DSH Settings 的社区插件商店：浏览、搜索、标签筛选并管理 4,100+ 条目；安装前校验 Leaderboard 状态与包规范，提供可复现的 Preview 安装包。
 
 ## 桌面客户端
 
