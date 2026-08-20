@@ -48,6 +48,7 @@ npx @deepseek-ai/dsh web
 - [hikariming/dshfind](https://github.com/hikariming/dshfind) ⭐ 176 - Learn DSH principles, plugin marketplace, and best practices.
 - [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) ⭐ 151 - A DSH skill that finds, installs, and verifies GitHub plugins.
 - [OBdangshang07/DSH_Creative_Workshop](https://github.com/OBdangshang07/DSH_Creative_Workshop) ⭐ 60 - Steam-Workshop-inspired discovery, trust scoring, graph search, collections, and transactional install planning.
+- [sandbaseai/dsh-plugin-store](https://github.com/sandbaseai/dsh-plugin-store) ⭐ 1 - A community plugin store embedded in DSH Settings for browsing, searching, filtering, and managing 4,100+ entries; it validates Leaderboard status and package specs before install and ships a reproducible preview package.
 
 ## Desktop Clients
 
