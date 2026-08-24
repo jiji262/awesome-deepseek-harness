@@ -87,14 +87,18 @@ npx @deepseek-ai/dsh web
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) ⭐ 243 - QQ-pet-style desktop pet plugin: floats in the corner, draggable, feedable, playable.
 - [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) ⭐ 237 - GenUI: interactive components — layouts, charts, forms, quizzes — rendered inline in assistant replies.
 - [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) ⭐ 187 - Desktop pet: one-line install for 28 ready-made transparent animations, or build your own from AI video.
+- [qwert702/dsh-context-compressor](https://github.com/qwert702/dsh-context-compressor) - Context compression for small models: compresses tool output and conversation history to a few sentences, continues in a fresh session automatically.
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) ⭐ 182 - Render model-generated interactive cards inside DSH conversations.
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐ 179 - WebGPU ocean skin, shipped as a DSH plugin, a browser extension, and a static installer.
+- [qwert702/dsh-token-viewer](https://github.com/qwert702/dsh-token-viewer) - CC Switch-style token consumption statistics: per-request usage log, real-consumption hero with cache-hit rate, trend chart, peak/off-peak pricing, and account balance.
+- [qwert702/dsh-auto-translate](https://github.com/qwert702/dsh-auto-translate) - Auto-translates English replies inline with Chinese annotations for tool calls; translation via independent request, never enters session context.
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - MCP client console: `/mcp` health diagnostics, server CRUD in Settings (with approval gate and auto-backup), and a tool test bench.
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) ⭐ 8 - Visual MCP manager: inspect, add, remove, enable/disable MCP servers from Settings → MCP, with live connection status and tool counts.
 
 ## Capability Plugins
 
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) ⭐ 3.6k - Two-phase DSH preset: minimal-aligned bootstrap, then the full Standard toolset.
+- [qwert702/dsh-commander](https://github.com/qwert702/dsh-commander) - Commander mode: inject protocol briefs into session title bar, auto-execute task blocks from model replies, separating strategy from execution.
 - [liustack/modlens](https://github.com/liustack/modlens) ⭐ 3.2k - The first vision plugin for DSH: paste an image, get structured JSON evidence (OCR, layout, semantics). A vision bridge for any text-only coding agent.
 - [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router) ⭐ 806 - Eyes for text-only DSH agents: a built-in key-free vision chain plus pixel-level vision tools.
 - [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) ⭐ 736 - A stronger vision toolkit: free to use, paste-to-recognize, multi-image Q&A, and screenshot-to-UI restoration.
@@ -133,6 +137,8 @@ npx @deepseek-ai/dsh web
 - [adoresever/graph-memory](https://github.com/adoresever/graph-memory) ⭐ 554 - Knowledge graph memory plugin that extracts structured triples from conversations.
 - [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) ⭐ 484 - Graph-based persistent memory for agents in a single binary, works with DSH.
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 188 - Plugin-only cross-session long-term memory and background self-evolution: five-track memory, skill self-evolution, todos, and scheduling.
+- [qwert702/dsh-continue-on-limit](https://github.com/qwert702/dsh-continue-on-limit) - Auto-sends continue when a local model hits output-token cap; dual-source detection with maxConsecutive guard prevents infinite loops.
+- [qwert702/dsh-memory](https://github.com/qwert702/dsh-memory) - Project-level and global long-term memory: isolated POST route, context compression before storage, deduplication and session persistence.
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐ 58 - Bounded, layered, approval-gated, auditable cross-session memory: a `ctx.memory` service, a zero-dependency SQLite provider, and frozen-snapshot injection.
 
 ## Related Harnesses & Agent Runtimes

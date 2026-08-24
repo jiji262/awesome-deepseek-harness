@@ -88,14 +88,18 @@ npx @deepseek-ai/dsh web
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) ⭐ 243 - QQ 宠物形态的桌面宠物插件：右下角悬浮，可拖拽、投喂、玩耍。
 - [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) ⭐ 237 - GenUI：回复内直接渲染布局、图表、表单、测验等交互组件。
 - [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) ⭐ 187 - 桌面宠物：一行命令装 28 个透明动画宠物，或用 AI 视频自造专属宠物。
+- [qwert702/dsh-context-compressor](https://github.com/qwert702/dsh-context-compressor) ⭐ 0 - 面向小模型的上下文压缩插件：将工具输出和对话历史压缩为几句话，自动在新生成的会话中继续工作。
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) ⭐ 182 - 在 DSH 对话中生成交互式可视化卡片。
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐ 179 - WebGPU 海洋皮肤，提供插件、浏览器扩展与静态安装器多种形态。
+- [qwert702/dsh-token-viewer](https://github.com/qwert702/dsh-token-viewer) ⭐ 0 - CC Switch 风格的 Token 消耗统计：按请求记录逐条统计、真实消耗英雄卡（含缓存命中率）、趋势图、峰谷定价、账户余额。
+- [qwert702/dsh-auto-translate](https://github.com/qwert702/dsh-auto-translate) ⭐ 0 - 英文回复自动翻译插件：原文下方内联中文翻译，工具调用附中文注释，翻译通过独立请求完成不进入会话上下文。
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - MCP 客户端管理台：/mcp 健康诊断 + 设置页服务器 CRUD（带审批门与自动备份）+ 工具试调台。
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) ⭐ 8 - MCP 可视化管理插件：设置 → MCP 页查看/新增/删除/启停 MCP 服务器，实时显示连接状态与工具数。
 
 ## 功能扩展插件
 
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) ⭐ 3.6k - 两阶段 DSH preset：极简对齐引导后加载完整 Standard 工具。
+- [qwert702/dsh-commander](https://github.com/qwert702/dsh-commander) ⭐ 0 - 指挥官模式：会话标题栏注入协议简报，解析模型回复中的任务块并自动执行，策略层与执行层分离。
 - [liustack/modlens](https://github.com/liustack/modlens) ⭐ 3.2k - 首个 DSH 视觉插件：粘贴图片，输出结构化 JSON 证据（OCR、布局、语义），也是纯文本 Agent 的通用视觉桥。
 - [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router) ⭐ 806 - 给纯文本 DSH Agent 装上眼睛：内置免 key 视觉链 + 像素级视觉工具。
 - [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) ⭐ 736 - 更强的视觉工具箱：免费使用、粘贴图片直接识别、多图问答、截图还原前端 UI。
@@ -134,6 +138,8 @@ npx @deepseek-ai/dsh web
 - [adoresever/graph-memory](https://github.com/adoresever/graph-memory) ⭐ 554 - 知识图谱记忆插件，从对话中抽取结构化三元组。
 - [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) ⭐ 484 - 图结构的 Agent 持久记忆，单二进制，支持 DSH。
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 188 - 纯插件实现跨会话长期记忆 + 后台自我进化：五轨记忆、技能自我进化、待办与调度。
+- [qwert702/dsh-continue-on-limit](https://github.com/qwert702/dsh-continue-on-limit) ⭐ 0 - 本地小模型输出上限自动继续：双源检测 turn-max-tokens 节点，maxConsecutive 防死循环，完全无 UI。
+- [qwert702/dsh-memory](https://github.com/qwert702/dsh-memory) ⭐ 0 - 项目级+全局长期记忆插件：分拆 POST /items 路由避免路径冲突，多轮上下文压缩后存入记忆项，去重与会话级持久化。
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐ 58 - 有界、分层、带审批门、可审计的跨会话记忆：ctx.memory 服务 + 零依赖 SQLite provider + 冻结快照注入。
 
 ## 相关 Harness 与 Agent 运行时
