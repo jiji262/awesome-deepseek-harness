@@ -41,6 +41,7 @@ npx @deepseek-ai/dsh web
 
 ## 插件市场与插件发现
 
+- [dsplugin.app](https://dsplugin.app/) - 非官方社区 DeepSeek Harness 插件目录 / 注册表；安装前请查看来源与 Manifest/`dsh.bundle`。
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐ 9.7k - DSH 插件精选列表（中英双语），目前社区最大的插件清单。
 - [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins) ⭐ 1.2k - 插件雷达与精选榜：自动发现 7600+ 候选，容器内真实安装实测（883/1415 可用），Top 50 人工策展。
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) ⭐ 1.2k - DSH 内置可视化插件市场：浏览、搜索、一键安装。
