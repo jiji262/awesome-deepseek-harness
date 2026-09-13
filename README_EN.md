@@ -89,8 +89,12 @@ npx @deepseek-ai/dsh web
 - [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) ⭐ 187 - Desktop pet: one-line install for 28 ready-made transparent animations, or build your own from AI video.
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) ⭐ 182 - Render model-generated interactive cards inside DSH conversations.
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐ 179 - WebGPU ocean skin, shipped as a DSH plugin, a browser extension, and a static installer.
+- [PerryLink/dsh-composer-history](https://github.com/PerryLink/dsh-composer-history) ⭐ 15 - Terminal-style composer input history: arrow recall, Ctrl+R search, workspace-scoped.
+- [PerryLink/dsh-talk](https://github.com/PerryLink/dsh-talk) ⭐ 10 - Voice-first session loop: browser/local speech-to-text plus text-to-speech replies and speak-to-interrupt.
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - MCP client console: `/mcp` health diagnostics, server CRUD in Settings (with approval gate and auto-backup), and a tool test bench.
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) ⭐ 8 - Visual MCP manager: inspect, add, remove, enable/disable MCP servers from Settings → MCP, with live connection status and tool counts.
+- [PerryLink/dsh-session-pin](https://github.com/PerryLink/dsh-session-pin) ⭐ 6 - Pin sessions and workspaces in the sidebar: per-pin colors plus a navigation organizer.
+- [PerryLink/dsh-output-styles](https://github.com/PerryLink/dsh-output-styles) ⭐ 5 - Runtime-switchable model output styles (Claude Code outputStyles parity).
 
 ## Capability Plugins
 
@@ -163,6 +167,11 @@ npx @deepseek-ai/dsh web
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) ⭐ 589 - AI roleplay and story worlds, with DSH plugin support.
 - [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) ⭐ 337 - Open-source alternative to Claude Cowork: a local-first AI agent desktop app.
 - [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper) ⭐ 319 - Cross-agent research paper toolkit for Claude Code, Codex, OpenCode, and DSH.
+- [PerryLink/dsh-local-ai](https://github.com/PerryLink/dsh-local-ai) ⭐ 11 - Ollama local-model integration: discovery, task-based routing, and automatic cloud fallback.
+- [PerryLink/dsh-github](https://github.com/PerryLink/dsh-github) ⭐ 9 - GitHub PR/issue integration plus a polling review bot; every write is approval-gated.
+- [PerryLink/dsh-translate](https://github.com/PerryLink/dsh-translate) ⭐ 5 - Vendor parameter translation across 11 vendors plus deterministic JSON repair that never fabricates data.
+- [PerryLink/dsh-reach](https://github.com/PerryLink/dsh-reach) ⭐ 0 - Multi-channel approval/question bridge: approval cards pushed to WeChat/Telegram/Feishu and answered from chat.
+- [PerryLink/dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) ⭐ 0 - TickTick (Dida365) task bridge: a session-header task panel plus eleven curated agent tools over the official MCP endpoint.
 
 ## Tutorials & Learning Resources
 

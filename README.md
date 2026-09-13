@@ -90,8 +90,12 @@ npx @deepseek-ai/dsh web
 - [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) ⭐ 187 - 桌面宠物：一行命令装 28 个透明动画宠物，或用 AI 视频自造专属宠物。
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) ⭐ 182 - 在 DSH 对话中生成交互式可视化卡片。
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐ 179 - WebGPU 海洋皮肤，提供插件、浏览器扩展与静态安装器多种形态。
+- [PerryLink/dsh-composer-history](https://github.com/PerryLink/dsh-composer-history) ⭐ 15 - 终端式输入历史：方向键回溯、Ctrl+R 反查、按工作区隔离。
+- [PerryLink/dsh-talk](https://github.com/PerryLink/dsh-talk) ⭐ 10 - 语音优先会话闭环：浏览器/本地语音转写 + 文字转语音朗读 + 语音打断。
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - MCP 客户端管理台：/mcp 健康诊断 + 设置页服务器 CRUD（带审批门与自动备份）+ 工具试调台。
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) ⭐ 8 - MCP 可视化管理插件：设置 → MCP 页查看/新增/删除/启停 MCP 服务器，实时显示连接状态与工具数。
+- [PerryLink/dsh-session-pin](https://github.com/PerryLink/dsh-session-pin) ⭐ 6 - 会话与工作区置顶：每 pin 换色 + 导航组织器。
+- [PerryLink/dsh-output-styles](https://github.com/PerryLink/dsh-output-styles) ⭐ 5 - 运行时切换模型输出风格（对标 Claude Code outputStyles）。
 
 ## 功能扩展插件
 
@@ -164,6 +168,11 @@ npx @deepseek-ai/dsh web
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) ⭐ 589 - AI 角色扮演与故事世界，支持 DSH 插件接入。
 - [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) ⭐ 337 - Claude Cowork 的开源替代：本地优先 AI Agent 桌面应用。
 - [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper) ⭐ 319 - 跨 Agent 论文研读工具包（Claude Code / Codex / OpenCode / DSH）。
+- [PerryLink/dsh-local-ai](https://github.com/PerryLink/dsh-local-ai) ⭐ 11 - Ollama 本地模型接入：发现、按任务路由与云端自动回退。
+- [PerryLink/dsh-github](https://github.com/PerryLink/dsh-github) ⭐ 9 - GitHub PR/issue 集成 + 轮询审查机器人，写操作全部审批门控。
+- [PerryLink/dsh-translate](https://github.com/PerryLink/dsh-translate) ⭐ 5 - 11 家厂商参数转换 + 确定性 JSON 修复，绝不臆造数据。
+- [PerryLink/dsh-reach](https://github.com/PerryLink/dsh-reach) ⭐ 0 - 多渠道审批/提问桥：审批卡推送微信/Telegram/飞书并在聊天中作答。
+- [PerryLink/dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) ⭐ 0 - TickTick（滴答清单）任务桥：会话头部任务面板 + 11 个精选 agent 工具，走官方 MCP 端点。
 
 ## 教程与学习资源
 
