@@ -103,10 +103,20 @@ npx @deepseek-ai/dsh web
 - [yjh051108/dsh-router-standard](https://github.com/yjh051108/dsh-router-standard) ⭐ 345 - 任务感知的推理模式路由：spec / mixed / react 三档实测行为带与阶段转换。
 - [Lum1104/dsh-browser](https://github.com/Lum1104/dsh-browser) ⭐ 311 - Chrome 侧边栏扩展，让 DSH 无需视觉能力直接操作你的浏览器。
 - [liustack/modsearch](https://github.com/liustack/modsearch) ⭐ 164 - Web 搜索插件：问 Web 或 X，返回结构化 JSON 证据。
+- [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research) ⭐ 99 - 行业/公司研究领域包：产业链建图、公开源政策动态跟踪、公司速览卡与可核查研究报告（数字可溯源）。
+- [PerryLink/dsh-research-report](https://github.com/PerryLink/dsh-research-report) ⭐ 97 - 可核查研究报告引擎：内容寻址证据账本、manifest 密封与逐条主张验证结论。
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐ 86 - 对话与代码状态回退，基于持久化 Change Ledger。
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) ⭐ 85 - 把一次性多 Agent 调度升级为可生成、可保存、可治理、可恢复的 Workflow 层。
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) ⭐ 71 - 13 种编码 Agent（Claude Code / Codex / Cursor / Gemini / OpenClaw 等）的历史会话全保真导入为可续聊 DSH 会话，并支持反向导出同步回 Claude Code。
+- [PerryLink/dsh-fund-research](https://github.com/PerryLink/dsh-fund-research) ⭐ 33 - 中国公募基金确定性研究报告：公开源数据采集、纯函数指标计算，逐数字可回溯源快照。
+- [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) ⭐ 26 - 发布前的工程纪律护栏：拷问需求、测试实现、对抗式审查交付。
+- [PerryLink/dsh-data-quality](https://github.com/PerryLink/dsh-data-quality) ⭐ 24 - 确定性数据画像、清洗与验证：DAMA 评分卡、内容哈希去重与指标期望。
+- [PerryLink/dsh-claude-move](https://github.com/PerryLink/dsh-claude-move) ⭐ 20 - 把 Claude Code / Codex / OpenCode / Hermes 的会话、记忆与技能迁入 DSH，会话可续聊。
+- [PerryLink/dsh-lsp-actions](https://github.com/PerryLink/dsh-lsp-actions) ⭐ 19 - LSP 诊断、格式化、补全、代码动作、符号与重命名，由真实语言服务器驱动。
+- [PerryLink/dsh-checkpoint-rewind](https://github.com/PerryLink/dsh-checkpoint-rewind) ⭐ 18 - git 优先的工作区快照 + 一键 /rewind：恢复文件并把会话回退到检查点。
 - [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) ⭐ 42 - 审批链上的第二模型自动审查：只读子代理返回带理由与风险等级的 allow/deny 结构化裁决，fail-closed 兜底。
+- [PerryLink/dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) ⭐ 12 - 官方子代理接缝上的持久后台子代理：Web 侧边栏看进度、随时留言与打断。
+- [PerryLink/dsh-defend](https://github.com/PerryLink/dsh-defend) ⭐ 12 - 提示注入 / 越狱 / 密钥泄露检测，allow/ask/block 分层拦截 + 脱敏审计事件。
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) ⭐ 15 - 声明式 allow/deny/ask 权限规则 + 进程级网络策略（内置本地 HTTP/CONNECT 代理），全量会话日志审计与规则热重载。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - dsh 登录网关（密码门）：多用户账号、bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS。
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - 一键备份与恢复 DSH 用户数据（`~/.dsh`）：定时自动备份、sha256 完整性校验、加固的恢复路径审查、GitHub 私库同步与 Settings 可视面板，跨平台。
