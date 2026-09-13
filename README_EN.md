@@ -121,7 +121,9 @@ npx @deepseek-ai/dsh web
 - [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) ⭐ 1.2k - By Tencent: let AI agents use your real, logged-in browser without interrupting your work. CLI plus extension.
 - [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1.1k - Makes AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked.
 - [Jayden-X-L/forkprobe](https://github.com/Jayden-X-L/forkprobe) ⭐ 67 - Compare multiple skills on the same task and pick the winner.
+- [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) ⭐ 38 - Plugin-development knowledge base as an on-demand agent skill, plus the dsh-plugin-dev CLI toolchain.
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) ⭐ 40 - Packages the 85 SKILL.md files from upstream [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) (26.5k⭐) into a Cordis plugin: reverse engineering, authorized pentesting, CTF, and security-research skill routing. Authorized use only.
+- [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) ⭐ 11 - Security-audit skill pack (8 bilingual skills) plus the plugin_vet supply-chain gate.
 
 ## Memory & Context
 
@@ -134,6 +136,8 @@ npx @deepseek-ai/dsh web
 - [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) ⭐ 484 - Graph-based persistent memory for agents in a single binary, works with DSH.
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 188 - Plugin-only cross-session long-term memory and background self-evolution: five-track memory, skill self-evolution, todos, and scheduling.
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐ 58 - Bounded, layered, approval-gated, auditable cross-session memory: a `ctx.memory` service, a zero-dependency SQLite provider, and frozen-snapshot injection.
+- [PerryLink/dsh-library](https://github.com/PerryLink/dsh-library) ⭐ 7 - Local document knowledge base: hybrid semantic+keyword search, citation-aware injection, and diagnostics.
+- [PerryLink/dsh-session-sync](https://github.com/PerryLink/dsh-session-sync) ⭐ 5 - Git-backed cross-device session sync with append-only, keep-both conflict resolution.
 
 ## Related Harnesses & Agent Runtimes
 
@@ -175,6 +179,12 @@ npx @deepseek-ai/dsh web
 - [yanhua1010/dsh-harness-tutorial](https://github.com/yanhua1010/dsh-harness-tutorial) ⭐ 52 - How DSH works and how to build one from scratch (VitePress site + 8 demos + a mini-harness project).
 - [yu-xin-c/agent-unpacked](https://github.com/yu-xin-c/agent-unpacked) ⭐ 18 - Source-code teardown tutorials for DSH, PI Agent, and nanobot.
 - [NanmiCoder/learn-deepseek-harness](https://github.com/NanmiCoder/learn-deepseek-harness) ⭐ 11 - Interactive tutorial: 20 lessons from "the model can only talk" to writing a plugin that installs into real DSH, with runnable demos.
+- [PerryLink/dsh-test-drive](https://github.com/PerryLink/dsh-test-drive) ⭐ 6 - Isolated install-and-smoke test drives in throwaway profiles, emitting structured pass/fail matrices.
+- [PerryLink/dsh-score](https://github.com/PerryLink/dsh-score) ⭐ 4 - Multi-dimensional plugin quality scoring (install success, maintenance, docs, security scan, protocol compliance) with evidence-linked reports.
+- [PerryLink/dsh-plugin-kit](https://github.com/PerryLink/dsh-plugin-kit) ⭐ 0 - Shared zero-runtime-dependency toolkit for DSH plugin authors: a Provider seam, fail-closed approval gates, and verify scripts.
+- [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) ⭐ 0 - Zero-dependency static and sandbox smoke detector for DSH plugins (R/K/D/CC layers).
+- [PerryLink/dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) ⭐ 0 - Read-only MCP server exposing the dsh-plugin-certification registry (grades, snapshots, five-dimension evidence).
+- [PerryLink/dsh-plugin-upgrade-015](https://github.com/PerryLink/dsh-plugin-upgrade-015) ⭐ 0 - Merged version-locked upgrade corridor (0.1.3-alpha.1 → 0.1.5-rc.1): an evidence-bound version card plus a 20-seam scanner.
 
 ## Other Awesome Lists
 

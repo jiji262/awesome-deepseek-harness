@@ -122,7 +122,9 @@ npx @deepseek-ai/dsh web
 - [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) ⭐ 1.2k - 腾讯开源：让 Agent 使用你已登录的真实浏览器，CLI + 扩展形态，不打断你的工作。
 - [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1.1k - 让编码 Agent 具备架构感知：基线优先、证据校验、漂移检查。
 - [Jayden-X-L/forkprobe](https://github.com/Jayden-X-L/forkprobe) ⭐ 67 - 同一任务上对比多个 Skill 并选出最优。
+- [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) ⭐ 38 - 插件开发知识库（按需 agent 技能）+ dsh-plugin-dev CLI 工具链。
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) ⭐ 40 - 把上游 [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)（26.5k⭐）的 85 个 SKILL.md 封装成 Cordis 插件：逆向工程、授权渗透测试、CTF 与安全研究技能路由。仅限授权场景使用。
+- [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) ⭐ 11 - 安全审计技能包（8 个双语技能）+ plugin_vet 供应链门禁。
 
 ## 记忆与上下文
 
@@ -135,6 +137,8 @@ npx @deepseek-ai/dsh web
 - [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) ⭐ 484 - 图结构的 Agent 持久记忆，单二进制，支持 DSH。
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 188 - 纯插件实现跨会话长期记忆 + 后台自我进化：五轨记忆、技能自我进化、待办与调度。
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐ 58 - 有界、分层、带审批门、可审计的跨会话记忆：ctx.memory 服务 + 零依赖 SQLite provider + 冻结快照注入。
+- [PerryLink/dsh-library](https://github.com/PerryLink/dsh-library) ⭐ 7 - 本地文档知识库：语义+关键词混合检索、引用感知注入与诊断。
+- [PerryLink/dsh-session-sync](https://github.com/PerryLink/dsh-session-sync) ⭐ 5 - git 镜像跨设备会话同步：只追加、双保留冲突解决。
 
 ## 相关 Harness 与 Agent 运行时
 
@@ -176,6 +180,12 @@ npx @deepseek-ai/dsh web
 - [yanhua1010/dsh-harness-tutorial](https://github.com/yanhua1010/dsh-harness-tutorial) ⭐ 52 - DSH 原理与实现：从零到一实现一个 AI Agent（VitePress 站点 + 8 个 Demo + mini-harness）。
 - [yu-xin-c/agent-unpacked](https://github.com/yu-xin-c/agent-unpacked) ⭐ 18 - Agent 源码拆解教程：DSH、PI Agent 与 nanobot。
 - [NanmiCoder/learn-deepseek-harness](https://github.com/NanmiCoder/learn-deepseek-harness) ⭐ 11 - 交互式教程：20 节课，从"模型只会说话"讲到写出能装进真实 DSH 的插件，含可跑 demo。
+- [PerryLink/dsh-test-drive](https://github.com/PerryLink/dsh-test-drive) ⭐ 6 - 一次性 profile 中的隔离安装+冒烟实测，输出结构化通过/失败矩阵。
+- [PerryLink/dsh-score](https://github.com/PerryLink/dsh-score) ⭐ 4 - 插件多维质量评分：安装成功率/维护/文档/安全扫描/协议合规，证据链报告。
+- [PerryLink/dsh-plugin-kit](https://github.com/PerryLink/dsh-plugin-kit) ⭐ 0 - DSH 插件作者共享零运行时依赖工具包：Provider 接缝、fail-closed 审批门与验证脚本。
+- [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) ⭐ 0 - DSH 插件零依赖静态+沙箱冒烟检测器（R/K/D/CC 层）。
+- [PerryLink/dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) ⭐ 0 - 只读 MCP 服务器，暴露 dsh-plugin-certification 注册表（等级/快照/五维证据）。
+- [PerryLink/dsh-plugin-upgrade-015](https://github.com/PerryLink/dsh-plugin-upgrade-015) ⭐ 0 - 合并后的锁版本升级走廊（0.1.3-alpha.1 → 0.1.5-rc.1）：版本卡 + 20 接缝扫描器。
 
 ## 其他 Awesome 列表
 
