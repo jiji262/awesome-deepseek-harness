@@ -116,7 +116,6 @@ npx @deepseek-ai/dsh web
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - Login gateway for the DSH web UI: multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - One-click backup and restore for DSH user data (`~/.dsh`): scheduled auto-backup, sha256 integrity checks, hardened restore-path vetting, GitHub private-repo sync, and a Settings panel. Cross-platform.
 - [PerryLink/dsh-autotier](https://github.com/PerryLink/dsh-autotier) ⭐ 0 - Automatic strong/cheap model-tier routing: intent-gated tier landing, plan handoff, deterministic guards, and TTL escalation fallback.
-- [PerryLink/dsh-personal-directive](https://github.com/PerryLink/dsh-personal-directive) ⭐ 0 - Personal directive injector with a top-bar runtime toggle (framework edition).
 - [PerryLink/dsh-team-rooms](https://github.com/PerryLink/dsh-team-rooms) ⭐ 0 - Persistent cross-session multi-agent team rooms: a message bus, a shared task board, and a timeline that survives restarts.
 
 ## Agent Skills

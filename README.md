@@ -117,7 +117,6 @@ npx @deepseek-ai/dsh web
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - dsh 登录网关（密码门）：多用户账号、bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS。
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - 一键备份与恢复 DSH 用户数据（`~/.dsh`）：定时自动备份、sha256 完整性校验、加固的恢复路径审查、GitHub 私库同步与 Settings 可视面板，跨平台。
 - [PerryLink/dsh-autotier](https://github.com/PerryLink/dsh-autotier) ⭐ 0 - 强/廉模型档位自动路由：意图门控落档、plan 交接、确定性护栏与 TTL 升级回退。
-- [PerryLink/dsh-personal-directive](https://github.com/PerryLink/dsh-personal-directive) ⭐ 0 - 个人指令注入器 + 顶栏运行时开关（framework edition）。
 - [PerryLink/dsh-team-rooms](https://github.com/PerryLink/dsh-team-rooms) ⭐ 0 - 持久化跨会话多 Agent 团队房间：消息总线、共享任务板与重启后仍保留的时间线。
 
 ## Agent Skills
