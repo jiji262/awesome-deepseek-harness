@@ -107,8 +107,17 @@ npx @deepseek-ai/dsh web
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) ⭐ 71 - Full-fidelity import of chat history from 13 coding agents (Claude Code, Codex, Cursor, Gemini, OpenClaw, and more) into resumable DSH sessions, with export/sync back to Claude Code.
 - [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) ⭐ 42 - A second model reviewing the approval chain: a read-only subagent returns structured allow/deny verdicts with reasoning and risk levels, fail-closed by default.
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) ⭐ 15 - Declarative allow/deny/ask permission rules plus process-level network policy (built-in local HTTP/CONNECT proxy), full session audit logging, and hot rule reload.
+- [PerryLink/dsh-click](https://github.com/PerryLink/dsh-click) ⭐ 7 - Cross-platform native desktop control (Windows first): screenshots, screen reading, click/type/scroll, and app launch, all approval-gated.
+- [PerryLink/dsh-draw](https://github.com/PerryLink/dsh-draw) ⭐ 6 - Unified static-image generation router: one image_generate tool with config-driven engine routing and health-aware fallback.
+- [PerryLink/dsh-fast](https://github.com/PerryLink/dsh-fast) ⭐ 6 - Read-only performance diagnostics: session load timing, spill hits, compaction stats, context volume, and cache-hit rate.
+- [PerryLink/dsh-mask](https://github.com/PerryLink/dsh-mask) ⭐ 6 - PII masking at the model boundary: placeholder substitution with display-layer restore; plaintext never enters the session log.
+- [PerryLink/dsh-observe](https://github.com/PerryLink/dsh-observe) ⭐ 6 - OpenTelemetry / Langfuse observability export: spans and token/cost metrics, sanitized and off by default.
+- [PerryLink/dsh-budget](https://github.com/PerryLink/dsh-budget) ⭐ 5 - Cost governance: per-model/session/day metering, budget caps with threshold alerts, carbon estimates, and latency benchmarks.
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - Login gateway for the DSH web UI: multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - One-click backup and restore for DSH user data (`~/.dsh`): scheduled auto-backup, sha256 integrity checks, hardened restore-path vetting, GitHub private-repo sync, and a Settings panel. Cross-platform.
+- [PerryLink/dsh-autotier](https://github.com/PerryLink/dsh-autotier) ⭐ 0 - Automatic strong/cheap model-tier routing: intent-gated tier landing, plan handoff, deterministic guards, and TTL escalation fallback.
+- [PerryLink/dsh-personal-directive](https://github.com/PerryLink/dsh-personal-directive) ⭐ 0 - Personal directive injector with a top-bar runtime toggle (framework edition).
+- [PerryLink/dsh-team-rooms](https://github.com/PerryLink/dsh-team-rooms) ⭐ 0 - Persistent cross-session multi-agent team rooms: a message bus, a shared task board, and a timeline that survives restarts.
 
 ## Agent Skills
 

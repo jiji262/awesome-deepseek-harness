@@ -108,8 +108,17 @@ npx @deepseek-ai/dsh web
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) ⭐ 71 - 13 种编码 Agent（Claude Code / Codex / Cursor / Gemini / OpenClaw 等）的历史会话全保真导入为可续聊 DSH 会话，并支持反向导出同步回 Claude Code。
 - [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) ⭐ 42 - 审批链上的第二模型自动审查：只读子代理返回带理由与风险等级的 allow/deny 结构化裁决，fail-closed 兜底。
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) ⭐ 15 - 声明式 allow/deny/ask 权限规则 + 进程级网络策略（内置本地 HTTP/CONNECT 代理），全量会话日志审计与规则热重载。
+- [PerryLink/dsh-click](https://github.com/PerryLink/dsh-click) ⭐ 7 - 跨平台原生桌面控制（Windows 优先）：截图、读屏、点击/输入/滚动、应用启动，全程审批门控。
+- [PerryLink/dsh-draw](https://github.com/PerryLink/dsh-draw) ⭐ 6 - 统一静态图像生成路由：单一 image_generate 工具、配置驱动引擎路由与健康感知回退。
+- [PerryLink/dsh-fast](https://github.com/PerryLink/dsh-fast) ⭐ 6 - 只读性能诊断：会话加载耗时、spill 命中、压缩统计、上下文体量与缓存命中率。
+- [PerryLink/dsh-mask](https://github.com/PerryLink/dsh-mask) ⭐ 6 - 模型边界 PII 掩码：占位符替换 + 展示层还原，明文绝不入会话日志。
+- [PerryLink/dsh-observe](https://github.com/PerryLink/dsh-observe) ⭐ 6 - OpenTelemetry / Langfuse 可观测性导出：span 与 token/成本指标，脱敏且默认关闭。
+- [PerryLink/dsh-budget](https://github.com/PerryLink/dsh-budget) ⭐ 5 - 成本治理：按模型/会话/日聚合计量、预算上限与阈值告警、碳足迹估算、延迟基准。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - dsh 登录网关（密码门）：多用户账号、bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS。
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - 一键备份与恢复 DSH 用户数据（`~/.dsh`）：定时自动备份、sha256 完整性校验、加固的恢复路径审查、GitHub 私库同步与 Settings 可视面板，跨平台。
+- [PerryLink/dsh-autotier](https://github.com/PerryLink/dsh-autotier) ⭐ 0 - 强/廉模型档位自动路由：意图门控落档、plan 交接、确定性护栏与 TTL 升级回退。
+- [PerryLink/dsh-personal-directive](https://github.com/PerryLink/dsh-personal-directive) ⭐ 0 - 个人指令注入器 + 顶栏运行时开关（framework edition）。
+- [PerryLink/dsh-team-rooms](https://github.com/PerryLink/dsh-team-rooms) ⭐ 0 - 持久化跨会话多 Agent 团队房间：消息总线、共享任务板与重启后仍保留的时间线。
 
 ## Agent Skills
 
