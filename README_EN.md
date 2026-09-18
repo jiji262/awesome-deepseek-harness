@@ -67,6 +67,7 @@ npx @deepseek-ai/dsh web
 - [op7418/pilot-harness](https://github.com/op7418/pilot-harness) ⭐ 211 - CodePilot-inspired desktop client and plugin suite for macOS, Windows, and Linux.
 - [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) ⭐ 202 - Put DSH in your pocket: run dsh web on your desktop, scan a QR code to access it live from your phone (LAN and public network).
 - [steven-kid/deepseek-harness-desktop](https://github.com/steven-kid/deepseek-harness-desktop) ⭐ 155 - Minimal desktop wrapper: cross-platform, zero-config, works out of the box.
+- [phinn/KinetAios](https://github.com/phinn/KinetAios) ⭐ 8 - Local-first multi-engine AI agent dashboard: Claude Code, Codex, and a built-in ReAct engine side by side; connects the DSH engine via the dsh CLI plugin; cross-engine shared long-term memory; MCP client+server; Windows / macOS.
 - [Ruler4396/dsh-launcher](https://github.com/Ruler4396/dsh-launcher) ⭐ 150 - Lightweight Windows launcher: silent autostart at logon plus a minimal WebView2 window.
 
 ## Terminal TUI
