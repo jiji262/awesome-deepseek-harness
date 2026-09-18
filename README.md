@@ -68,6 +68,7 @@ npx @deepseek-ai/dsh web
 - [op7418/pilot-harness](https://github.com/op7418/pilot-harness) ⭐ 211 - CodePilot 风格的桌面客户端与插件套件，支持 macOS / Windows / Linux。
 - [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) ⭐ 202 - 把 DSH 装进口袋：电脑跑 dsh web，手机扫码同步访问（局域网 + 公网实时同屏）。
 - [steven-kid/deepseek-harness-desktop](https://github.com/steven-kid/deepseek-harness-desktop) ⭐ 155 - 极简桌面封装，跨平台、免配置、开箱即用。
+- [phinn/KinetAios](https://github.com/phinn/KinetAios) ⭐ 8 - 本地优先多引擎 AI Agent 桌面仪表盘：Claude Code、Codex、内置 ReAct 引擎一窗并跑，通过 dsh CLI 插件接入 DSH 引擎，跨引擎共享长期记忆，MCP 双向集成，Windows / macOS。
 - [Ruler4396/dsh-launcher](https://github.com/Ruler4396/dsh-launcher) ⭐ 150 - Windows 轻量启动器：开机静默自启 + WebView2 极简窗口。
 
 ## 终端 TUI
