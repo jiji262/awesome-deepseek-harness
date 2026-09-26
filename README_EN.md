@@ -48,6 +48,7 @@ npx @deepseek-ai/dsh web
 - [hikariming/dshfind](https://github.com/hikariming/dshfind) ⭐ 176 - Learn DSH principles, plugin marketplace, and best practices.
 - [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) ⭐ 151 - A DSH skill that finds, installs, and verifies GitHub plugins.
 - [OBdangshang07/DSH_Creative_Workshop](https://github.com/OBdangshang07/DSH_Creative_Workshop) ⭐ 60 - Steam-Workshop-inspired discovery, trust scoring, graph search, collections, and transactional install planning.
+- [weibaohui/dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) ⭐ 1 - FDE toolbox bundle: installing this one plugin pulls in a curated set of common dsh plugins (git server, WebDAV mount, knowledge base, scheduled tasks, auto-resume, UI tweaks, auto-retrospection, file manager, smart titles, task board, plugin market, context trimmer, IM bridge, sidebar enhancements), with a panel showing install status and one-click gap-filling.
 
 ## Desktop Clients
 

@@ -49,6 +49,7 @@ npx @deepseek-ai/dsh web
 - [hikariming/dshfind](https://github.com/hikariming/dshfind) ⭐ 176 - DSH 原理学习、插件市场与最佳实践。
 - [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) ⭐ 151 - 帮 DSH 搜索、安装并验证 GitHub 插件的 Skill。
 - [OBdangshang07/DSH_Creative_Workshop](https://github.com/OBdangshang07/DSH_Creative_Workshop) ⭐ 60 - Steam 创意工坊式的插件发现、信任评估、图搜索、合集与事务化安装规划。
+- [weibaohui/dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) ⭐ 1 - FDE 工具箱全家桶：安装一个插件带上一批常用 dsh 插件（代码仓库 / 挂载盘 / 知识库 / 定时任务 / 自动续跑 / 界面微调 / 自动复盘 / 文件管理 / 智能标题 / 任务看板 / 插件市场 / 上下文 / IM 接入 / 侧栏增强），面板看状态、一键补装。
 
 ## 桌面客户端
 
