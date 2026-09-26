@@ -163,6 +163,7 @@ npx @deepseek-ai/dsh web
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) ⭐ 589 - AI roleplay and story worlds, with DSH plugin support.
 - [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) ⭐ 337 - Open-source alternative to Claude Cowork: a local-first AI agent desktop app.
 - [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper) ⭐ 319 - Cross-agent research paper toolkit for Claude Code, Codex, OpenCode, and DSH.
+- [weibaohui/dsh-sync](https://github.com/weibaohui/dsh-sync) ⭐ 5 - Multi-machine sync: keeps multiple dsh replicas consistent through one private GitCode repository — skills, sessions, settings and plugin manifests each with an independent switch; changes go through branch, PR and merge, remote-only additions are pulled back before every push so nothing is deleted, and an AI smart-align step semantically merges files both sides changed (plus one-click conflict resolution); private repos enforced, pull never overwrites local edits.
 
 ## Tutorials & Learning Resources
 

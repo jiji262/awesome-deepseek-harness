@@ -164,6 +164,7 @@ npx @deepseek-ai/dsh web
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) ⭐ 589 - AI 角色扮演与故事世界，支持 DSH 插件接入。
 - [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) ⭐ 337 - Claude Cowork 的开源替代：本地优先 AI Agent 桌面应用。
 - [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper) ⭐ 319 - 跨 Agent 论文研读工具包（Claude Code / Codex / OpenCode / DSH）。
+- [weibaohui/dsh-sync](https://github.com/weibaohui/dsh-sync) ⭐ 5 - 多机同步：让多台机器上的 dsh 通过一个私有 GitCode 仓库保持一致——技能、会话、设置、插件清单四类内容各有独立开关；变更走分支 → PR → 合并，推送前自动回填远端新增防误删，支持 AI 智能对齐（语义合并双方改动）与一键解决冲突；强制私有仓库，pull 不覆盖本地改动。
 
 ## 教程与学习资源
 
