@@ -122,6 +122,7 @@ npx @deepseek-ai/dsh web
 - [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1.1k - Makes AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked.
 - [Jayden-X-L/forkprobe](https://github.com/Jayden-X-L/forkprobe) ⭐ 67 - Compare multiple skills on the same task and pick the winner.
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) ⭐ 40 - Packages the 85 SKILL.md files from upstream [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) (26.5k⭐) into a Cordis plugin: reverse engineering, authorized pentesting, CTF, and security-research skill routing. Authorized use only.
+- [weibaohui/experts-management](https://github.com/weibaohui/experts-management) ⭐ 3 - Expert manager: manage ntd-format experts and expert teams (plugin.json + Agent MD + skill sets), browse and install from a built-in market of 50+ experts, and run tasks in an expert persona via /expert-<name> without consuming model directory tokens.
 
 ## Memory & Context
 
