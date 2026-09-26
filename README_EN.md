@@ -163,6 +163,7 @@ npx @deepseek-ai/dsh web
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) ⭐ 589 - AI roleplay and story worlds, with DSH plugin support.
 - [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) ⭐ 337 - Open-source alternative to Claude Cowork: a local-first AI agent desktop app.
 - [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper) ⭐ 319 - Cross-agent research paper toolkit for Claude Code, Codex, OpenCode, and DSH.
+- [weibaohui/dsh-git-server](https://github.com/weibaohui/dsh-git-server) ⭐ 1 - Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port — HTTP clone/push, web UI, issues/PRs/wiki — reusing user-management credentials, start/stop from the settings page.
 
 ## Tutorials & Learning Resources
 

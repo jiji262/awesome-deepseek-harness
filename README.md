@@ -164,6 +164,7 @@ npx @deepseek-ai/dsh web
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) ⭐ 589 - AI 角色扮演与故事世界，支持 DSH 插件接入。
 - [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) ⭐ 337 - Claude Cowork 的开源替代：本地优先 AI Agent 桌面应用。
 - [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper) ⭐ 319 - 跨 Agent 论文研读工具包（Claude Code / Codex / OpenCode / DSH）。
+- [weibaohui/dsh-git-server](https://github.com/weibaohui/dsh-git-server) ⭐ 1 - Git 服务器：内嵌 ts-gogs（Gogs 的 TypeScript 平替），独立端口跑完整 Git 服务（HTTP clone/push、网页端、issue/PR/wiki），可复用 user-management 的用户名密码，设置页一键启停。
 
 ## 教程与学习资源
 
