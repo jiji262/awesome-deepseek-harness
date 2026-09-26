@@ -123,6 +123,7 @@ npx @deepseek-ai/dsh web
 - [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1.1k - 让编码 Agent 具备架构感知：基线优先、证据校验、漂移检查。
 - [Jayden-X-L/forkprobe](https://github.com/Jayden-X-L/forkprobe) ⭐ 67 - 同一任务上对比多个 Skill 并选出最优。
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) ⭐ 40 - 把上游 [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)（26.5k⭐）的 85 个 SKILL.md 封装成 Cordis 插件：逆向工程、授权渗透测试、CTF 与安全研究技能路由。仅限授权场景使用。
+- [weibaohui/skills-management](https://github.com/weibaohui/skills-management) ⭐ 14 - 技能市场：一个页面管理本机所有 coding agent 的技能，一键收编进 DSH 用户库；内置 6600+ 技能市场，支持注入开销（≈token）统计与模型可见性治理。
 
 ## 记忆与上下文
 
