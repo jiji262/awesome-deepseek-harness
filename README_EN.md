@@ -109,6 +109,7 @@ npx @deepseek-ai/dsh web
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) ⭐ 15 - Declarative allow/deny/ask permission rules plus process-level network policy (built-in local HTTP/CONNECT proxy), full session audit logging, and hot rule reload.
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - Login gateway for the DSH web UI: multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - One-click backup and restore for DSH user data (`~/.dsh`): scheduled auto-backup, sha256 integrity checks, hardened restore-path vetting, GitHub private-repo sync, and a Settings panel. Cross-platform.
+- [weibaohui/dsh-smart-title](https://github.com/weibaohui/dsh-smart-title) ⭐ 3 - Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped.
 
 ## Agent Skills
 
