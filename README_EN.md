@@ -134,6 +134,7 @@ npx @deepseek-ai/dsh web
 - [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) ⭐ 484 - Graph-based persistent memory for agents in a single binary, works with DSH.
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 188 - Plugin-only cross-session long-term memory and background self-evolution: five-track memory, skill self-evolution, todos, and scheduling.
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐ 58 - Bounded, layered, approval-gated, auditable cross-session memory: a `ctx.memory` service, a zero-dependency SQLite provider, and frozen-snapshot injection.
+- [weibaohui/dsh-kb](https://github.com/weibaohui/dsh-kb) ⭐ 1 - Team knowledge base for offline knowledge sharing (FDE box scenario): browse, full-text search and refinement entry points; raw material is queued automatically and distilled into wiki pages by a serial bot session (Karpathy LLM Wiki pattern: immutable raw, two-step refinement, log stream, monthly lint).
 
 ## Related Harnesses & Agent Runtimes
 
