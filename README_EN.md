@@ -91,6 +91,7 @@ npx @deepseek-ai/dsh web
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐ 179 - WebGPU ocean skin, shipped as a DSH plugin, a browser extension, and a static installer.
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - MCP client console: `/mcp` health diagnostics, server CRUD in Settings (with approval gate and auto-backup), and a tool test bench.
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) ⭐ 8 - Visual MCP manager: inspect, add, remove, enable/disable MCP servers from Settings → MCP, with live connection status and tool counts.
+- [weibaohui/dsh-gaokao](https://github.com/weibaohui/dsh-gaokao) ⭐ 0 - Gaokao countdown blackboard: desktop widget counting down days (double-click to collapse), with random knowledge-card quizzes while the agent works; open Markdown knowledge-card framework.
 
 ## Capability Plugins
 
