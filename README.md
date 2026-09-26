@@ -92,6 +92,7 @@ npx @deepseek-ai/dsh web
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐ 179 - WebGPU 海洋皮肤，提供插件、浏览器扩展与静态安装器多种形态。
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - MCP 客户端管理台：/mcp 健康诊断 + 设置页服务器 CRUD（带审批门与自动备份）+ 工具试调台。
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) ⭐ 8 - MCP 可视化管理插件：设置 → MCP 页查看/新增/删除/启停 MCP 服务器，实时显示连接状态与工具数。
+- [weibaohui/dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) ⭐ 1 - 设置界面自定义：调整原生设置窗口大小（全屏/预置/自定义宽高）、背景透明度与背景（主题/颜色/图片），悬浮球即开即调，存本机浏览器。
 
 ## 功能扩展插件
 
