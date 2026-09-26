@@ -91,6 +91,7 @@ npx @deepseek-ai/dsh web
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐ 179 - WebGPU ocean skin, shipped as a DSH plugin, a browser extension, and a static installer.
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - MCP client console: `/mcp` health diagnostics, server CRUD in Settings (with approval gate and auto-backup), and a tool test bench.
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) ⭐ 8 - Visual MCP manager: inspect, add, remove, enable/disable MCP servers from Settings → MCP, with live connection status and tool counts.
+- [weibaohui/dsh-matrix](https://github.com/weibaohui/dsh-matrix) ⭐ 0 - Matrix digital rain: drapes the chat window in the classic green character rain — cascading columns with incandescent white heads and green tails, streaming the tokens the agent is generating into the rain in real time; opacity, speed, density, font size and colors are all adjustable, and rain intensity follows agent activity.
 
 ## Capability Plugins
 
