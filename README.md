@@ -164,6 +164,7 @@ npx @deepseek-ai/dsh web
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) ⭐ 589 - AI 角色扮演与故事世界，支持 DSH 插件接入。
 - [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) ⭐ 337 - Claude Cowork 的开源替代：本地优先 AI Agent 桌面应用。
 - [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper) ⭐ 319 - 跨 Agent 论文研读工具包（Claude Code / Codex / OpenCode / DSH）。
+- [weibaohui/dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) ⭐ 1 - WebDAV 服务器：把一个共享目录变成 Windows/macOS/Linux 都能挂载成本地磁盘的 WebDAV 服务，令牌认证、可选只读、目录/端口/令牌全可配，设置页自带三平台挂载指南。
 
 ## 教程与学习资源
 

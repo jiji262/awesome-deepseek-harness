@@ -163,6 +163,7 @@ npx @deepseek-ai/dsh web
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) ⭐ 589 - AI roleplay and story worlds, with DSH plugin support.
 - [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) ⭐ 337 - Open-source alternative to Claude Cowork: a local-first AI agent desktop app.
 - [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper) ⭐ 319 - Cross-agent research paper toolkit for Claude Code, Codex, OpenCode, and DSH.
+- [weibaohui/dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) ⭐ 1 - WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page.
 
 ## Tutorials & Learning Resources
 
