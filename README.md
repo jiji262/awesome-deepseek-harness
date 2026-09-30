@@ -135,6 +135,7 @@ npx @deepseek-ai/dsh web
 - [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) ⭐ 484 - 图结构的 Agent 持久记忆，单二进制，支持 DSH。
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 188 - 纯插件实现跨会话长期记忆 + 后台自我进化：五轨记忆、技能自我进化、待办与调度。
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐ 58 - 有界、分层、带审批门、可审计的跨会话记忆：ctx.memory 服务 + 零依赖 SQLite provider + 冻结快照注入。
+- [1420079678-ctrl/agent-body](https://github.com/1420079678-ctrl/agent-body) ⭐ 14 - DSH 插件层：持久记忆与空闲整理、按意图加载工具定义、确定性反射和失败归因；提供离线演示与可复现基准，Windows 优先。
 
 ## 相关 Harness 与 Agent 运行时
 
