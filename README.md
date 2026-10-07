@@ -92,6 +92,7 @@ npx @deepseek-ai/dsh web
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐ 179 - WebGPU 海洋皮肤，提供插件、浏览器扩展与静态安装器多种形态。
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - MCP 客户端管理台：/mcp 健康诊断 + 设置页服务器 CRUD（带审批门与自动备份）+ 工具试调台。
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) ⭐ 8 - MCP 可视化管理插件：设置 → MCP 页查看/新增/删除/启停 MCP 服务器，实时显示连接状态与工具数。
+- [weibaohui/dsh-ambient](https://github.com/weibaohui/dsh-ambient) ⭐ 0 - 白噪音播放器：AI 编程时铺一层背景音（雨声、溪流、篝火、咖啡馆……），帮助进入心流状态、集中精力、高效思考，让你写代码又快又好。支持顺序/随机/单曲循环/间歇等多种播放模式。支持 AI 自动下载背景音乐。
 
 ## 功能扩展插件
 

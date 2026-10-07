@@ -91,6 +91,7 @@ npx @deepseek-ai/dsh web
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐ 179 - WebGPU ocean skin, shipped as a DSH plugin, a browser extension, and a static installer.
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) ⭐ 10 - MCP client console: `/mcp` health diagnostics, server CRUD in Settings (with approval gate and auto-backup), and a tool test bench.
 - [Js2Hou/dsh-mcp-manager](https://github.com/Js2Hou/dsh-mcp-manager) ⭐ 8 - Visual MCP manager: inspect, add, remove, enable/disable MCP servers from Settings → MCP, with live connection status and tool counts.
+- [weibaohui/dsh-ambient](https://github.com/weibaohui/dsh-ambient) ⭐ 0 - White noise player: lays a layer of background sound (rain, streams, campfire, café…) while AI codes, helping you enter flow, stay focused and think efficiently, so you write code fast and well. Supports multiple playback modes (sequential / shuffle / single-loop / intermittent) and AI automatic background music download.
 
 ## Capability Plugins
 
