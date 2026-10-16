@@ -48,6 +48,7 @@ npx @deepseek-ai/dsh web
 - [hikariming/dshfind](https://github.com/hikariming/dshfind) ⭐ 176 - Learn DSH principles, plugin marketplace, and best practices.
 - [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) ⭐ 151 - A DSH skill that finds, installs, and verifies GitHub plugins.
 - [OBdangshang07/DSH_Creative_Workshop](https://github.com/OBdangshang07/DSH_Creative_Workshop) ⭐ 60 - Steam-Workshop-inspired discovery, trust scoring, graph search, collections, and transactional install planning.
+- [ymck-x/dsh-plugin-index](https://github.com/ymck-x/dsh-plugin-index) ⭐ 1 - An in-DSH plugin index that trusts only the `dsh.bundle.patch` field in `package.json`: 10,000+ verified plugins with one-click install and a companion website.
 
 ## Desktop Clients
 
@@ -122,6 +123,7 @@ npx @deepseek-ai/dsh web
 - [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1.1k - Makes AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked.
 - [Jayden-X-L/forkprobe](https://github.com/Jayden-X-L/forkprobe) ⭐ 67 - Compare multiple skills on the same task and pick the winner.
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) ⭐ 40 - Packages the 85 SKILL.md files from upstream [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) (26.5k⭐) into a Cordis plugin: reverse engineering, authorized pentesting, CTF, and security-research skill routing. Authorized use only.
+- [ymck-x/dsh-skill-starter](https://github.com/ymck-x/dsh-skill-starter) ⭐ 1 - Skill manager with 6 built-in skills and a 20-skill Chinese engineering pack (requirements grilling, ticketing, TDD, two-axis code review, retro), grouped by the situation you are in; upgrading a pack never overwrites files you edited.
 
 ## Memory & Context
 
@@ -134,6 +136,7 @@ npx @deepseek-ai/dsh web
 - [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) ⭐ 484 - Graph-based persistent memory for agents in a single binary, works with DSH.
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 188 - Plugin-only cross-session long-term memory and background self-evolution: five-track memory, skill self-evolution, todos, and scheduling.
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐ 58 - Bounded, layered, approval-gated, auditable cross-session memory: a `ctx.memory` service, a zero-dependency SQLite provider, and frozen-snapshot injection.
+- [ymck-x/dsh-session-continuity](https://github.com/ymck-x/dsh-session-continuity) ⭐ 1 - Injects a small continuity pointer at the start of a new session, naming the previous session and any handoff file, and reuses DSH's own compaction summary when there is no handoff file.
 
 ## Related Harnesses & Agent Runtimes
 

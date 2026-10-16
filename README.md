@@ -49,6 +49,7 @@ npx @deepseek-ai/dsh web
 - [hikariming/dshfind](https://github.com/hikariming/dshfind) ⭐ 176 - DSH 原理学习、插件市场与最佳实践。
 - [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) ⭐ 151 - 帮 DSH 搜索、安装并验证 GitHub 插件的 Skill。
 - [OBdangshang07/DSH_Creative_Workshop](https://github.com/OBdangshang07/DSH_Creative_Workshop) ⭐ 60 - Steam 创意工坊式的插件发现、信任评估、图搜索、合集与事务化安装规划。
+- [ymck-x/dsh-plugin-index](https://github.com/ymck-x/dsh-plugin-index) ⭐ 1 - DSH 内的插件索引：只认 `package.json` 里的 `dsh.bundle.patch` 判定真伪，收录 1 万余个经校验的插件，一键安装，配套网站 cj.codexve.cn。
 
 ## 桌面客户端
 
@@ -123,6 +124,7 @@ npx @deepseek-ai/dsh web
 - [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1.1k - 让编码 Agent 具备架构感知：基线优先、证据校验、漂移检查。
 - [Jayden-X-L/forkprobe](https://github.com/Jayden-X-L/forkprobe) ⭐ 67 - 同一任务上对比多个 Skill 并选出最优。
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) ⭐ 40 - 把上游 [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)（26.5k⭐）的 85 个 SKILL.md 封装成 Cordis 插件：逆向工程、授权渗透测试、CTF 与安全研究技能路由。仅限授权场景使用。
+- [ymck-x/dsh-skill-starter](https://github.com/ymck-x/dsh-skill-starter) ⭐ 1 - 技能管理器：自带 6 个基础技能与 20 个中文工程流程技能包（拷问需求、拆票、TDD、双轴代码审查、复盘），按「你遇到的问题」分组展示；升级技能包不会覆盖你改过的文件。
 
 ## 记忆与上下文
 
@@ -135,6 +137,7 @@ npx @deepseek-ai/dsh web
 - [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) ⭐ 484 - 图结构的 Agent 持久记忆，单二进制，支持 DSH。
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐ 188 - 纯插件实现跨会话长期记忆 + 后台自我进化：五轨记忆、技能自我进化、待办与调度。
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐ 58 - 有界、分层、带审批门、可审计的跨会话记忆：ctx.memory 服务 + 零依赖 SQLite provider + 冻结快照注入。
+- [ymck-x/dsh-session-continuity](https://github.com/ymck-x/dsh-session-continuity) ⭐ 1 - 新会话开始时注入一条很小的接续指针：上一个会话是谁、工作区有没有交接文档；没有交接文档时复用 DSH 已有的压缩摘要，不调用模型。
 
 ## 相关 Harness 与 Agent 运行时
 
