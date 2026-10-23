@@ -110,6 +110,8 @@ npx @deepseek-ai/dsh web
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - Login gateway for the DSH web UI: multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - One-click backup and restore for DSH user data (`~/.dsh`): scheduled auto-backup, sha256 integrity checks, hardened restore-path vetting, GitHub private-repo sync, and a Settings panel. Cross-platform.
 
+- [hxlog/dsh-mcp-tools](https://github.com/hxlog/dsh-mcp-tools) ⭐ 3 - MCP manager for DSH: add and manage MCP servers in Settings, Postman-style headers, connectivity tests and per-tool toggles.
+
 ## Agent Skills
 
 > Cross-agent skill packages that work in DSH (and other harnesses), all plugged into the `dsh-plugin` ecosystem.
