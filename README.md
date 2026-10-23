@@ -111,6 +111,8 @@ npx @deepseek-ai/dsh web
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - dsh 登录网关（密码门）：多用户账号、bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS。
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - 一键备份与恢复 DSH 用户数据（`~/.dsh`）：定时自动备份、sha256 完整性校验、加固的恢复路径审查、GitHub 私库同步与 Settings 可视面板，跨平台。
 
+- [hxlog/dsh-mcp-tools](https://github.com/hxlog/dsh-mcp-tools) ⭐ 3 - DSH 的 MCP 工具管理器：Settings 内添加与管理 MCP 服务器、Postman 式请求头、连通性测试、逐工具开关。
+
 ## Agent Skills
 
 > 可在 DSH 及多家 Agent 上通用的技能包，均已接入 `dsh-plugin` 生态。
