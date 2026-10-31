@@ -127,6 +127,7 @@ npx @deepseek-ai/dsh web
 
 > A category that exploded after the DSH release: giving agents long-term memory across sessions.
 
+- [OakcoderX/solopup-memory](https://github.com/OakcoderX/solopup-memory) - Source-linked text memory for DSH with project scopes and revision history (public beta).
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) ⭐ 29.8k - By Volcengine: a self-evolving context database for AI agents, unifying memory, knowledge RAG, and skills.
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) ⭐ 12.2k - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, self-evolving.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) ⭐ 10.8k - Self-evolving memory OS for LLMs and agents: ultra-persistent memory, hybrid retrieval, cross-task skill reuse.

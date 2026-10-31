@@ -128,6 +128,7 @@ npx @deepseek-ai/dsh web
 
 > DSH 发布后爆发的一类方向：给 Agent 装上跨会话的长期记忆。
 
+- [OakcoderX/solopup-memory](https://github.com/OakcoderX/solopup-memory) - 保留原话来源、项目归属与修订历史的 DSH 文字记忆插件（公开测试版）。
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) ⭐ 29.8k - 火山引擎开源：Agent 自进化上下文数据库，统一记忆、知识 RAG 与技能。
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) ⭐ 12.2k - 跨 Agent 通用记忆层：本地优先、Markdown 原生、用户自持、可自进化。
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) ⭐ 10.8k - 面向 LLM 与 Agent 的自进化记忆 OS：超持久记忆、混合检索、跨任务技能复用。
