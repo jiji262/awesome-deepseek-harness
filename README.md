@@ -110,6 +110,8 @@ npx @deepseek-ai/dsh web
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) ⭐ 15 - 声明式 allow/deny/ask 权限规则 + 进程级网络策略（内置本地 HTTP/CONNECT 代理），全量会话日志审计与规则热重载。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - dsh 登录网关（密码门）：多用户账号、bcrypt 加密、防爆破锁定、审计日志、自动 HTTPS。
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - 一键备份与恢复 DSH 用户数据（`~/.dsh`）：定时自动备份、sha256 完整性校验、加固的恢复路径审查、GitHub 私库同步与 Settings 可视面板，跨平台。
+- [lijiaqi-AI-Product-Manager/dsh-bug-gps](https://github.com/lijiaqi-AI-Product-Manager/dsh-bug-gps) ⭐ 1 - 录制浏览器问题、固定预期，并通过独立原代码对照复核修复。DSH 0.2.1-rc.5 headless/web。
+
 
 ## Agent Skills
 
