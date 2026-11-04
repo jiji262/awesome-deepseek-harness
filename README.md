@@ -124,6 +124,8 @@ npx @deepseek-ai/dsh web
 - [Jayden-X-L/forkprobe](https://github.com/Jayden-X-L/forkprobe) ⭐ 67 - 同一任务上对比多个 Skill 并选出最优。
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) ⭐ 40 - 把上游 [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)（26.5k⭐）的 85 个 SKILL.md 封装成 Cordis 插件：逆向工程、授权渗透测试、CTF 与安全研究技能路由。仅限授权场景使用。
 
+- [hxlog/dsh-skills-tools](https://github.com/hxlog/dsh-skills-tools) ⭐ 1 - Cursor 式 Skills 管理器：在 DSH 设置里从 Git 仓库导入 Agent Skills，按仓库分组，逐项启用或停用，停用技能不进入模型上下文。
+
 ## 记忆与上下文
 
 > DSH 发布后爆发的一类方向：给 Agent 装上跨会话的长期记忆。
