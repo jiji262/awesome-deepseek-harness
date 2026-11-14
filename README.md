@@ -44,6 +44,7 @@ npx @deepseek-ai/dsh web
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐ 9.7k - DSH 插件精选列表（中英双语），目前社区最大的插件清单。
 - [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins) ⭐ 1.2k - 插件雷达与精选榜：自动发现 7600+ 候选，容器内真实安装实测（883/1415 可用），Top 50 人工策展。
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) ⭐ 1.2k - DSH 内置可视化插件市场：浏览、搜索、一键安装。
+- [sandbaseai/dsh-plugin-store](https://github.com/sandbaseai/dsh-plugin-store) - DeepSeek Harness 原生插件商店，支持在客户端内搜索、筛选、安装和管理社区插件。
 - [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) ⭐ 946 - DSH 插件生态精选列表。
 - [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) ⭐ 242 - 每日脚本抓取 + 人工逐个核实：真插件进目录、蹭热度进黑名单，剔除理由公开可查。
 - [hikariming/dshfind](https://github.com/hikariming/dshfind) ⭐ 176 - DSH 原理学习、插件市场与最佳实践。

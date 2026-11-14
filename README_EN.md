@@ -43,6 +43,7 @@ npx @deepseek-ai/dsh web
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐ 9.7k - A curated list of DSH plugins (English & Chinese) — the largest community plugin index.
 - [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins) ⭐ 1.2k - Plugin radar and leaderboard: 7,600+ auto-discovered candidates, real container install testing (883/1415 working), curated Top 50.
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) ⭐ 1.2k - The plugin market inside DeepSeek Harness: browse, search, one-click install.
+- [sandbaseai/dsh-plugin-store](https://github.com/sandbaseai/dsh-plugin-store) - Native DeepSeek Harness plugin store for searching, filtering, installing, and managing community plugins in the client.
 - [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) ⭐ 946 - A curated list of plugins for the DSH plugin ecosystem.
 - [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) ⭐ 242 - Daily automated crawling plus manual verification: real plugins get listed, hype-chasers get blacklisted, with public rejection reasons.
 - [hikariming/dshfind](https://github.com/hikariming/dshfind) ⭐ 176 - Learn DSH principles, plugin marketplace, and best practices.
