@@ -109,6 +109,7 @@ npx @deepseek-ai/dsh web
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) ⭐ 15 - Declarative allow/deny/ask permission rules plus process-level network policy (built-in local HTTP/CONNECT proxy), full session audit logging, and hot rule reload.
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - Login gateway for the DSH web UI: multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - One-click backup and restore for DSH user data (`~/.dsh`): scheduled auto-backup, sha256 integrity checks, hardened restore-path vetting, GitHub private-repo sync, and a Settings panel. Cross-platform.
+- [ru-data-analysis/ru-corpus](https://github.com/ru-data-analysis/ru-corpus) ⭐ 0 - Russian document corpus search for DSH: lemma + BM25 search, OCR, wide PDF tables, number verification and exact calculator as `corpus_*` tools; also SKILL.md skills.
 
 ## Agent Skills
 
